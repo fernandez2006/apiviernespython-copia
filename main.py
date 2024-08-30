@@ -7,3 +7,4 @@ print("hola soy",nombre," Y tengo ",edad," años")
 print(f"hola soy {nombre} y tengo {edad} años ")
 
 print("hola soy julian ")
+print("hola soy juan andres")
